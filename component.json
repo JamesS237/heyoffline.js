@@ -1,0 +1,13 @@
+{
+  "name": "heyoffline",
+  "repo": "JamesS237/heyoffline.js",
+  "description": ".",
+  "version": "1.1.2",
+  "dependencies": {
+  },
+  "main": "heyoffline.js",
+  "scripts": [
+    "heyoffline.js"
+  ],
+  "remotes": []
+}
